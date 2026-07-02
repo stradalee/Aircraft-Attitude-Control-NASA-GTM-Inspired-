@@ -277,7 +277,7 @@ See the LICENSE file for details.
 
 # Author
 
-**TaeWoo**
+**Taewoo** + **ChatGPT**
 
 Aircraft Attitude Control System
 
