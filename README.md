@@ -267,9 +267,11 @@ pip install numpy scipy matplotlib pandas
 
 ---
 
-# License
+## License
 
-This project is intended for educational purposes.
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
 
 ---
 
